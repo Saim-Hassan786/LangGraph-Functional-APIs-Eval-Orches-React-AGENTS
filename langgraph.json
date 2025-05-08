@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "evaluator": "./src/langgraph_orches/eval.py:evaluate_report_optimizer"
+  },
+  "env": ".env",
+
+  "dependencies": ["."]
+}
